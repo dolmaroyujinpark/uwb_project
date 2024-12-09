@@ -1,0 +1,19 @@
+{
+    "name": "EIC",
+    "workspace_width": 558,
+    "workspace_height": 455,
+    "danger_width": 142,
+    "danger_height": 139,
+    "anchor_a": {
+        "x": 67.0,
+        "y": 58.0
+    },
+    "anchor_b": {
+        "x": 438.0,
+        "y": 50.0
+    },
+    "anchor_c": {
+        "x": 265.0,
+        "y": 455.0
+    }
+}

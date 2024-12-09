@@ -1,0 +1,19 @@
+{
+    "name": "ws3",
+    "workspace_width": 800,
+    "workspace_height": 700,
+    "danger_width": 200,
+    "danger_height": 200,
+    "anchor_a": {
+        "x": 0.0,
+        "y": 0.0
+    },
+    "anchor_b": {
+        "x": 500.0,
+        "y": 0.0
+    },
+    "anchor_c": {
+        "x": 250.0,
+        "y": 500.0
+    }
+}
